@@ -18,7 +18,7 @@ graphback db
 npm start
 ```
 
-### Directory structure
+### Directory structure changed
 
 ```
 |-----generated
