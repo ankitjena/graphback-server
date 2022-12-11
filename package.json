@@ -14,7 +14,7 @@
   "dependencies": {
     "apollo-server-express": "2.8.1",
     "cors": "2.8.5",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "graphql": "14.4.2",
     "graphql-redis-subscriptions": "2.1.1",
     "graphql-tag": "2.10.1",
